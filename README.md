@@ -1,6 +1,7 @@
 RobotTask-6-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
 
 RobotTask-6-3. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
+В обстановке робота на рисунках найти самый короткий ряд закрашенных клеток. Написать общий код для всех обстановок.
 
 Robot Position N 1
 
