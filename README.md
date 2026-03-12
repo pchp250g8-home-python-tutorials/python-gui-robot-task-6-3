@@ -1,8 +1,12 @@
 RobotTask-6-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
-In the robot's environment in the pictures, find the shortest row of shaded cells. Write a common code for all environments.
+In the robot's environment in the pictures, find the shortest row of shaded cells. 
+Write a common code for all environments.
+The solution to the problem is in the file "Task-6-3.py".
 
 RobotTask-6-3. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
-В обстановке робота на рисунках найти самый короткий ряд закрашенных клеток. Написать общий код для всех обстановок.
+В обстановке робота на рисунках найти самый короткий ряд закрашенных клеток. 
+Написать общий код для всех обстановок.
+Решение в файле "Task-6-3.py".
 
 Robot Position N 1
 
